@@ -41,7 +41,7 @@ The workflow will run automatically and the downloaded files will appear in the 
 ### Download files individually
 
 Downloads each file and saves it by its original filename.
-
+https://github.com/sartoopjj/thefeed/releases/download/v0.11.2-rc1/thefeed-android-arm64.apk
 ```
 download: URL1 URL2 URL3
 ```
@@ -51,7 +51,7 @@ download: URL1 URL2 URL3
 ```
 download: https://example.com/file.zip
 ```
-
+download: https://github.com/sartoopjj/thefeed/releases/download/v0.11.2-rc1/thefeed-android-arm64.apk
 ```
 download: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
 ```
