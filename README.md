@@ -55,7 +55,7 @@ download: https://github.com/sartoopjj/thefeed/releases/download/v0.11.2-rc1/the
 ```
 download: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
 ```
-
+download: https://github.com/sartoopjj/thefeed/releases/download/v0.11.2-rc1/thefeed-android-arm64.apk
 ---
 
 ### Download and archive into a single ZIP
