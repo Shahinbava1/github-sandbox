@@ -49,7 +49,7 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://example.com/file.zip
+download: https://github.com/microsoft/vscode/archive/refs/tags/1.117.0.tar.gz
 ```
 download: https://github.com/sartoopjj/thefeed/releases/download/v0.11.2-rc1/thefeed-android-arm64.apk
 ```
