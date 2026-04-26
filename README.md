@@ -43,7 +43,7 @@ The workflow will run automatically and the downloaded files will appear in the 
 Downloads each file and saves it by its original filename.
 https://github.com/sartoopjj/thefeed/releases/download/v0.11.2-rc1/thefeed-android-arm64.apk
 ```
-download: URL1 URL2 URL3
+download: https://github.com/microsoft/vscode/archive/refs/tags/1.117.0.tar.gz
 ```
 
 **Examples:**
