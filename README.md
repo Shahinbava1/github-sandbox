@@ -71,7 +71,7 @@ download-zip: URL1 URL2 URL3
 ```
 download-zip: https://example.com/file.zip
 ```
-
+download: https://github.com/sartoopjj/thefeed/releases/download/v0.11.2-rc1/thefeed-android-arm64.apk
 ```
 download-zip: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
 ```
